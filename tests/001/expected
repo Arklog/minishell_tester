@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 pierre pierre 4096 Oct 18 14:28 .
+drwxr-xr-x 3 pierre pierre 4096 Oct 18 14:26 ..
+-rw-r--r-- 1 pierre pierre   12 Oct 18 14:28 commands
+-rw-r--r-- 1 pierre pierre    0 Oct 18 14:28 expected
